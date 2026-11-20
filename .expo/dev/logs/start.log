@@ -1,0 +1,112 @@
+{"_e":"root:init","_t":1794905999432,"format":"v0-jsonl","version":"56.1.27"}
+{"_e":"env:mode","_t":1794905999433,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1794905999437,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1794905999933,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1794906000468,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:instantiate","_t":1794906002829,"atlas":false,"workers":8,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1794906003927,"id":"1","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1794906003929,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1794906003937,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1794906004036,"id":"1","progress":0.42533081285444235,"total":23,"current":15}
+{"_e":"metro:bundling:progress","_t":1794906004136,"id":"1","progress":0.4857667584940313,"total":66,"current":46}
+{"_e":"metro:bundling:progress","_t":1794906004261,"id":"1","progress":0.7392785396104463,"total":107,"current":92}
+{"_e":"metro:bundling:progress","_t":1794906004373,"id":"1","progress":0.9849058769513315,"total":132,"current":131}
+{"_e":"metro:bundling:progress","_t":1794906006560,"id":"1","progress":0.999,"total":132,"current":132}
+{"_e":"metro:bundling:progress","_t":1794906006662,"id":"1","progress":0.999,"total":176,"current":145}
+{"_e":"metro:bundling:progress","_t":1794906006762,"id":"1","progress":0.999,"total":213,"current":173}
+{"_e":"metro:bundling:progress","_t":1794906006863,"id":"1","progress":0.999,"total":301,"current":211}
+{"_e":"metro:bundling:progress","_t":1794906006965,"id":"1","progress":0.999,"total":347,"current":334}
+{"_e":"metro:bundling:progress","_t":1794906007078,"id":"1","progress":0.999,"total":358,"current":357}
+{"_e":"metro:bundling:progress","_t":1794906008360,"id":"1","progress":0.999,"total":358,"current":358}
+{"_e":"metro:bundling:done","_t":1794906008464,"id":"1","total":358,"ms":4536.8071}
+{"_e":"metro:bundling:started","_t":1794906013463,"id":"3","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1794906013463,"id":"3","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1794906013510,"id":"3","total":1,"ms":47.0849}
+{"_e":"metro:client_log","_t":1794906013763,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1794906117840,"id":"6","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1794906117840,"id":"6","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1794906117894,"id":"6","total":1,"ms":54.0281}
+{"_e":"metro:client_log","_t":1794906118103,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1794906253816,"id":"b","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1794906253816,"id":"b","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1794906253858,"id":"b","total":1,"ms":41.8121}
+{"_e":"metro:client_log","_t":1794906254156,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1794906300743,"id":"g","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1794906300743,"id":"g","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1794906300785,"id":"g","total":1,"ms":41.4608}
+{"_e":"metro:client_log","_t":1794906301081,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1794906521504,"id":"j","platform":"web","environment":null,"entry":"api\\config.js"}
+{"_e":"metro:bundling:started","_t":1794906524477,"id":"k","platform":"web","environment":null,"entry":"api\\config.js"}
+{"_e":"metro:bundling:started","_t":1794906530862,"id":"n","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1794906530862,"id":"n","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1794906530863,"id":"n","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1794906530967,"id":"n","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1794906531032,"id":"n","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1794906531132,"id":"n","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1794906531235,"id":"n","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1794906531339,"id":"n","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1794906531439,"id":"n","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1794906531552,"id":"n","total":1,"ms":689.436}
+{"_e":"metro:client_log","_t":1794906531891,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1794906852174,"id":"r","platform":"web","environment":null,"entry":"App.js"}
+{"_e":"metro:bundling:started","_t":1794906865955,"id":"s","platform":"web","environment":null,"entry":"App.js"}
+{"_e":"metro:bundling:started","_t":1794906874773,"id":"t","platform":"web","environment":null,"entry":"App.js"}
+{"_e":"metro:bundling:started","_t":1794906889061,"id":"u","platform":"web","environment":null,"entry":"App.js"}
+{"_e":"metro:bundling:started","_t":1794906903977,"id":"v","platform":"web","environment":null,"entry":"App.js"}
+{"_e":"metro:bundling:started","_t":1794906990590,"id":"y","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1794906990590,"id":"y","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1794906990631,"id":"y","total":1,"ms":40.4795}
+{"_e":"metro:client_log","_t":1794906990936,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1794906997479,"id":"11","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1794906997480,"id":"11","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1794906997526,"id":"11","total":1,"ms":46.6057}
+{"_e":"metro:client_log","_t":1794906997854,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1794906997854,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1794907097785,"id":"14","platform":"web","environment":null,"entry":"App.js"}
+{"_e":"metro:client_log","_t":1794907098293,"level":"warn","data":["An error occurred in the <App> component.\n\nConsider adding an error boundary to your tree to customize error handling behavior.\nVisit https://react.dev/link/error-boundaries to learn more about error boundaries.\n"]}
+{"_e":"metro:client_log","_t":1794907098402,"level":"error","data":["[ReferenceError: search is not defined]","\n\n\u001b[1mCode: App.js\u001b[22m\n\u001b[0m \u001b[90m 109 |\u001b[39m     p\u001b[33m.\u001b[39muser\u001b[33m.\u001b[39mtoLowerCase()\u001b[33m.\u001b[39mincludes(search\u001b[33m.\u001b[39mtoLowerCase()) \u001b[33m||\u001b[39m\n \u001b[90m 110 |\u001b[39m     p\u001b[33m.\u001b[39mcaption\u001b[33m.\u001b[39mtoLowerCase()\u001b[33m.\u001b[39mincludes(search\u001b[33m.\u001b[39mtoLowerCase())\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 111 |\u001b[39m   )\u001b[33m,\u001b[39m [posts\u001b[33m,\u001b[39m search])\u001b[33m;\u001b[39m\n \u001b[90m     |\u001b[39m              \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 112 |\u001b[39m\n \u001b[90m 113 |\u001b[39m   \u001b[90m// --- IMAGE PICKER HELPER ---\u001b[39m\n \u001b[90m 114 |\u001b[39m   \u001b[36mconst\u001b[39m pickImage \u001b[33m=\u001b[39m \u001b[36masync\u001b[39m (isProfile \u001b[33m=\u001b[39m \u001b[36mfalse\u001b[39m) \u001b[33m=>\u001b[39m {\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  App (App.js:111:14)\u001b[39m","\n\n\u001b[1mCode: withDevTools.web.tsx\u001b[22m\n\u001b[0m \u001b[90m  9 |\u001b[39m     \u001b[36mreturn\u001b[39m (\n \u001b[90m 10 |\u001b[39m       \u001b[33m<\u001b[39m\u001b[33m>\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 11 |\u001b[39m         \u001b[33m<\u001b[39m\u001b[33mAppRootComponent\u001b[39m {\u001b[33m...\u001b[39mprops} \u001b[33m/\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m    |\u001b[39m         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 12 |\u001b[39m         \u001b[33m<\u001b[39m\u001b[33mDevLoadingView\u001b[39m \u001b[33m/\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 13 |\u001b[39m       \u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 14 |\u001b[39m     )\u001b[33m;\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[2m\u001b[90m  WithDevTools (node_modules\\expo\\src\\launch\\withDevTools.web.tsx:11:9)\u001b[39m\u001b[22m"]}
+{"_e":"metro:bundling:started","_t":1794907101138,"id":"19","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1794907101138,"id":"19","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1794907101177,"id":"19","total":1,"ms":38.3539}
+{"_e":"metro:client_log","_t":1794907101438,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1794907101442,"level":"warn","data":["An error occurred in the <App> component.\n\nConsider adding an error boundary to your tree to customize error handling behavior.\nVisit https://react.dev/link/error-boundaries to learn more about error boundaries.\n"]}
+{"_e":"metro:client_log","_t":1794907101493,"level":"error","data":["[ReferenceError: search is not defined]","\n\n\u001b[1mCode: App.js\u001b[22m\n\u001b[0m \u001b[90m 109 |\u001b[39m     p\u001b[33m.\u001b[39muser\u001b[33m.\u001b[39mtoLowerCase()\u001b[33m.\u001b[39mincludes(search\u001b[33m.\u001b[39mtoLowerCase()) \u001b[33m||\u001b[39m\n \u001b[90m 110 |\u001b[39m     p\u001b[33m.\u001b[39mcaption\u001b[33m.\u001b[39mtoLowerCase()\u001b[33m.\u001b[39mincludes(search\u001b[33m.\u001b[39mtoLowerCase())\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 111 |\u001b[39m   )\u001b[33m,\u001b[39m [posts\u001b[33m,\u001b[39m search])\u001b[33m;\u001b[39m\n \u001b[90m     |\u001b[39m              \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 112 |\u001b[39m\n \u001b[90m 113 |\u001b[39m   \u001b[90m// --- IMAGE PICKER HELPER ---\u001b[39m\n \u001b[90m 114 |\u001b[39m   \u001b[36mconst\u001b[39m pickImage \u001b[33m=\u001b[39m \u001b[36masync\u001b[39m (isProfile \u001b[33m=\u001b[39m \u001b[36mfalse\u001b[39m) \u001b[33m=>\u001b[39m {\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  App (App.js:111:14)\u001b[39m","\n\n\u001b[1mCode: withDevTools.web.tsx\u001b[22m\n\u001b[0m \u001b[90m  9 |\u001b[39m     \u001b[36mreturn\u001b[39m (\n \u001b[90m 10 |\u001b[39m       \u001b[33m<\u001b[39m\u001b[33m>\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 11 |\u001b[39m         \u001b[33m<\u001b[39m\u001b[33mAppRootComponent\u001b[39m {\u001b[33m...\u001b[39mprops} \u001b[33m/\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m    |\u001b[39m         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 12 |\u001b[39m         \u001b[33m<\u001b[39m\u001b[33mDevLoadingView\u001b[39m \u001b[33m/\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 13 |\u001b[39m       \u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 14 |\u001b[39m     )\u001b[33m;\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[2m\u001b[90m  WithDevTools (node_modules\\expo\\src\\launch\\withDevTools.web.tsx:11:9)\u001b[39m\u001b[22m"]}
+{"_e":"metro:bundling:started","_t":1794907114703,"id":"1f","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1794907114704,"id":"1f","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1794907114748,"id":"1f","total":1,"ms":44.8166}
+{"_e":"metro:client_log","_t":1794907114967,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1794907114969,"level":"warn","data":["An error occurred in the <App> component.\n\nConsider adding an error boundary to your tree to customize error handling behavior.\nVisit https://react.dev/link/error-boundaries to learn more about error boundaries.\n"]}
+{"_e":"metro:client_log","_t":1794907115006,"level":"error","data":["[ReferenceError: search is not defined]","\n\n\u001b[1mCode: App.js\u001b[22m\n\u001b[0m \u001b[90m 109 |\u001b[39m     p\u001b[33m.\u001b[39muser\u001b[33m.\u001b[39mtoLowerCase()\u001b[33m.\u001b[39mincludes(search\u001b[33m.\u001b[39mtoLowerCase()) \u001b[33m||\u001b[39m\n \u001b[90m 110 |\u001b[39m     p\u001b[33m.\u001b[39mcaption\u001b[33m.\u001b[39mtoLowerCase()\u001b[33m.\u001b[39mincludes(search\u001b[33m.\u001b[39mtoLowerCase())\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 111 |\u001b[39m   )\u001b[33m,\u001b[39m [posts\u001b[33m,\u001b[39m search])\u001b[33m;\u001b[39m\n \u001b[90m     |\u001b[39m              \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 112 |\u001b[39m\n \u001b[90m 113 |\u001b[39m   \u001b[90m// --- IMAGE PICKER HELPER ---\u001b[39m\n \u001b[90m 114 |\u001b[39m   \u001b[36mconst\u001b[39m pickImage \u001b[33m=\u001b[39m \u001b[36masync\u001b[39m (isProfile \u001b[33m=\u001b[39m \u001b[36mfalse\u001b[39m) \u001b[33m=>\u001b[39m {\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  App (App.js:111:14)\u001b[39m","\n\n\u001b[1mCode: withDevTools.web.tsx\u001b[22m\n\u001b[0m \u001b[90m  9 |\u001b[39m     \u001b[36mreturn\u001b[39m (\n \u001b[90m 10 |\u001b[39m       \u001b[33m<\u001b[39m\u001b[33m>\u001b[39m\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 11 |\u001b[39m         \u001b[33m<\u001b[39m\u001b[33mAppRootComponent\u001b[39m {\u001b[33m...\u001b[39mprops} \u001b[33m/\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m    |\u001b[39m         \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 12 |\u001b[39m         \u001b[33m<\u001b[39m\u001b[33mDevLoadingView\u001b[39m \u001b[33m/\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 13 |\u001b[39m       \u001b[33m<\u001b[39m\u001b[33m/\u001b[39m\u001b[33m>\u001b[39m\n \u001b[90m 14 |\u001b[39m     )\u001b[33m;\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[2m\u001b[90m  WithDevTools (node_modules\\expo\\src\\launch\\withDevTools.web.tsx:11:9)\u001b[39m\u001b[22m"]}
+{"_e":"metro:bundling:started","_t":1794907170338,"id":"1j","platform":"web","environment":null,"entry":"App.js"}
+{"_e":"metro:bundling:started","_t":1794907175890,"id":"1n","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1794907175890,"id":"1n","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1794907175928,"id":"1n","total":1,"ms":37.8694}
+{"_e":"metro:client_log","_t":1794907176233,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1794907349600,"id":"1s","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1794907349600,"id":"1s","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1794907349648,"id":"1s","total":1,"ms":48.2689}
+{"_e":"metro:client_log","_t":1794907349945,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1794907384371,"id":"1v","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1794907384371,"id":"1v","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1794907384411,"id":"1v","total":1,"ms":39.9772}
+{"_e":"metro:client_log","_t":1794907384612,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1794907515167,"id":"1y","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1794907515167,"id":"1y","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1794907515202,"id":"1y","total":1,"ms":34.8952}
+{"_e":"metro:client_log","_t":1794907515435,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1794907778711,"id":"21","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1794907778711,"id":"21","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1794907778744,"id":"21","total":1,"ms":32.9662}
+{"_e":"metro:client_log","_t":1794907779028,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1794907941497,"id":"24","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1794907941497,"id":"24","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1794907941533,"id":"24","total":1,"ms":36.4036}
+{"_e":"metro:client_log","_t":1794907941803,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1794907988529,"id":"27","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1794907988529,"id":"27","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1794907988577,"id":"27","total":1,"ms":41.2346}
+{"_e":"metro:client_log","_t":1794907988787,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:bundling:started","_t":1794908168635,"id":"2a","platform":"web","environment":null,"entry":"node_modules\\expo\\AppEntry.js"}
+{"_e":"metro:bundling:progress","_t":1794908168635,"id":"2a","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1794908168680,"id":"2a","total":1,"ms":45.0286}
+{"_e":"metro:client_log","_t":1794908168962,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
